@@ -47,6 +47,8 @@ namespace Tyuiu.IvanovSI.Sprint3.Review.V4
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("+----------+-----------+");
             Console.WriteLine("|    X     |    f(x)   |");
+
+
             Console.WriteLine("+----------+-----------+");
             for (int i = 0; i <= len - 1; i++)
             {

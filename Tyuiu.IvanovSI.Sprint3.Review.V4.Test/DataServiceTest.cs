@@ -25,7 +25,7 @@ namespace Tyuiu.IvanovSI.Sprint3.Review.V4.Test
             valueWaitArray[3] = -3.83;
             valueWaitArray[4] = -11.70;
             valueWaitArray[5] = 3;
-            valueWaitArray[6] = 2.19;
+            valueWaitArray[6] = 2.19; 
             valueWaitArray[7] = 3.31;
             valueWaitArray[8] = 2.97;
             valueWaitArray[9] = 1.18;

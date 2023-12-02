@@ -20,7 +20,7 @@ namespace Tyuiu.IvanovSI.Sprint3.Review.V4.Lib
             {
                 y = Math.Round((((2 * x + 6) / (Math.Cos(x) + x)) - 3),2);
 
-                valueArray[cnt] = y;
+                valueArray[cnt] = y; 
                 cnt++;
             }
 
